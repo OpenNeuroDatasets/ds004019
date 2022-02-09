@@ -1,0 +1,18 @@
+{
+  "Simple": {
+    "LongName": "Simple arithmetical problems",
+    "Description": "Arithmetic problems presented during EEG recording."
+  },
+  "Choices S": {
+    "LongName": "Choices presented after simple arithmetical problems",
+    "Description": "Three posible solutions for each arihthmetic problem."
+  },
+   "Complex": {
+    "LongName": "Complex arithmetical problems with three operators",
+    "Description": "Arithmetic problems presented during EEG recording."
+  },
+  "Choices C": {
+    "LongName": "Choices presented after complex arithmetical problems",
+    "Description": "Three posible solutions for each arihthmetic problem."
+  }
+}

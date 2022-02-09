@@ -6,7 +6,7 @@
     "Authors": [
         "Graciela C. Alatorre-Cruz",
         "Heather Downs",
-        "Darcy Hagood", 
+        "Darcy Hagood",
         "Seth T. Sorensen",
         "D. Keith Williams",
         "Linda Larson-Prior"
@@ -14,6 +14,6 @@
     "License": "CC0",
     "BIDSVersion": "1",
     "Funding": [
-    "This research was supported by USDA/Agricultural Research Service Project 6026-51000-012-06S"
+        "This research was supported by USDA/Agricultural Research Service Project 6026-51000-012-06S"
     ]
 }
